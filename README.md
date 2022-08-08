@@ -1,5 +1,4 @@
-<h1 align="center"> Afiniel.Tech Yiimpool Installer - DEV-WORK-branch </h1>
-This branch can be very unstable and buggy. Use it at your own risk. you find stable branches at <a href="https://github.com/Afiniel-tech/Yiimpool-Installer">Github</a>. 
+<h1 align="center"> Afiniel Yiimpool Installer v3.0 </h1> 
 
 <h2 align="center"> Description </h2>
 :information_source: This is the main page for the Afiniel.Tech Yiimpool

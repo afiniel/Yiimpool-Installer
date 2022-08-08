@@ -1,7 +1,9 @@
-<h1 align="center"> Afiniel.Tech Yiimpool Installer v2.0🚀
+<h1 align="center"> Afiniel.Tech Yiimpool Installer - DEV-WORK-branch </h1>
+This branch can be very unstable and buggy. Use it at your own risk. you find stable branches at <a href="https://github.com/Afiniel-tech/Yiimpool-Installer">Github</a>. 
 
-###  :information_source: This is the main page for the Afiniel.Tech Yiimpool
-Here you find information all documentation about Afiniel.Tech Yiimpool Installer v2.0  Will mostly automatically install all reequirements to get Yiimp installed correctly. This is a fork of Cryptopool.builders multipool installer, i cant see that the project is active anymore and there for i have start a "Reborn of the project"
+<h2 align="center"> Description </h2>
+:information_source: This is the main page for the Afiniel.Tech Yiimpool
+Here you find information all documentation about Afiniel.Tech Yiimpool Installer v3.0  Will mostly automatically install all reequirements to get Yiimp installed correctly. This is a fork of Cryptopool.builders multipool installer, i cant see that the project is active anymore and there for i have start a "Reborn of the project"
 
 ### The installer requires the following
 
@@ -29,7 +31,7 @@ You <b>MUST RUN</b> the <b>yiimpool</b> installer under <b>root</b> or an existi
 
  To start the installation paste the following in your terminal and follow the instructions. Yiimpool installer will ask you to create a new account.
 ```
-curl https://raw.githubusercontent.com/Afiniel-tech/Yiimpool-Installer/master/bootstrap.sh | bash
+curl https://raw.githubusercontent.com/afiniel/Yiimpool-Installer/master/bootstrap.sh | bash
 ```
 
  When the account is created yiimpool will ask you to reboot the system. When the system is rebooted log back in with the new account then you type following command to continue:

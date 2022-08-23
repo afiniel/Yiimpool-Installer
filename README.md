@@ -1,4 +1,5 @@
-<h1 align="center"> Afiniel Yiimpool Installer v3.0 </h1> 
+<h1 align="center"> Afiniel Yiimpool Installer v3.0 Work Branch </h1>
+You find stable [Release](https://www.github.com/Afiniel-tech/Yiimpool-installer) here.
 
 <h2 align="center"> Description </h2>
 :information_source: This is the main page for the Afiniel.Tech Yiimpool
